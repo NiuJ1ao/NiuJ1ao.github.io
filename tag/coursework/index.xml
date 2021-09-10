@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursework | Yuchen Niu</title>
+    <link>https://example.com/tag/coursework/</link>
+      <atom:link href="https://example.com/tag/coursework/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coursework</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue3a655598c6865a5273e9cfb01f02a1f_2400_512x512_fill_lanczos_center_2.png</url>
+      <title>Coursework</title>
+      <link>https://example.com/tag/coursework/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Practical</title>
+      <link>https://example.com/project/mlp/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/mlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Design Project</title>
+      <link>https://example.com/project/sdp/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/sdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatics Large Practical</title>
+      <link>https://example.com/project/ilp/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ilp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
