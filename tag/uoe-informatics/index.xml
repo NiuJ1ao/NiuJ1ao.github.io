@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UoE Informatics | Yuchen Niu</title>
+    <link>https://example.com/tag/uoe-informatics/</link>
+      <atom:link href="https://example.com/tag/uoe-informatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>UoE Informatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue3a655598c6865a5273e9cfb01f02a1f_2400_512x512_fill_lanczos_center_3.png</url>
+      <title>UoE Informatics</title>
+      <link>https://example.com/tag/uoe-informatics/</link>
+    </image>
+    
+    <item>
+      <title>Performance Characterization of Serverless Computing</title>
+      <link>https://example.com/project/ug_thesis/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ug_thesis/</guid>
+      <description>&lt;p&gt;Serverless computing is a growing cloud framework that removes the barriers of resource provision and scaling from the cloud users. Function-as-a-Service (FaaS) is a
+way to deploy an application, as a set of functions, to serverless backends in the cloud.
+The functions are usually short-lived and have unpredictable invocation patterns. A
+typical cloud environment has multiple tenants coreside on a server. The combination
+of the multitenancy and functions’ characterization leads to that a serverless platform
+has to address the potential overheads of burstable invocations. This project studies the
+architectural implications of serverless computing under a high multitenancy. We explicitly measure the throughput and hardware performance counters of a server while
+the number of tenants varies. We find that the server suffers an approximately 40%
+of throughput loss when the number of tenants exceeds the number of physical cores.
+The characteristics of hardware performance counters show that the contention of data
+demands on the memory subsystem is rapidly aggravated as the number of tenants increases. When two tenants coreside on the same physical core, the contention on the
+instruction fetch may overtake the stalls in the memory subsystem. We also conform
+that the interleaves short functions from multiple tenants are harmful to the localitypreserving microarchitectural structures. We open-source an automated profiling tool
+in the vHive, which we developed for this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Practical</title>
+      <link>https://example.com/project/mlp/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/mlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Design Project</title>
+      <link>https://example.com/project/sdp/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/sdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatics Large Practical</title>
+      <link>https://example.com/project/ilp/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ilp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

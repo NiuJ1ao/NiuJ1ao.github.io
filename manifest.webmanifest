@@ -2,8 +2,8 @@
   "name": "Yuchen Niu",
   "short_name": "Yuchen Niu",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#bbdefb",
+  "background_color": "#bbdefb",
   "icons": [{
     "src": "/media/icon_hue3a655598c6865a5273e9cfb01f02a1f_2400_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
