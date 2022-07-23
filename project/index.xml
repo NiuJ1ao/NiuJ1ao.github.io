@@ -17,7 +17,8 @@
       <link>https://example.com/project/iso/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/iso/</guid>
-      <description>&lt;p&gt;Recent advances in machine learning have dramatically improved the ability of neural
+      <description>&lt;p&gt;Supervised by &lt;a href=&#34;http://yingzhenli.net/home/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Yingzhen Li&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recent advances in machine learning have dramatically improved the ability of neural
 networks to solve real-world problems. Machine learning methods are also more frequently
 deployed in critical scenarios. This requires that machine learning models need to be both
 accurate and reliable. So, calibrating a model to create a rigorous confidence set or estimates
@@ -49,7 +50,8 @@ and provide stable predictions.&lt;/p&gt;
       <link>https://example.com/project/ug_thesis/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/ug_thesis/</guid>
-      <description>&lt;p&gt;Serverless computing is a growing cloud framework that removes the barriers of resource provision and scaling from the cloud users. Function-as-a-Service (FaaS) is a
+      <description>&lt;p&gt;Supervised by &lt;a href=&#34;https://homepages.inf.ed.ac.uk/bgrot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Boris Grot&lt;/a&gt; and &lt;a href=&#34;https://homepages.inf.ed.ac.uk/s1373190/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Dmitrii Ustiugov&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Serverless computing is a growing cloud framework that removes the barriers of resource provision and scaling from the cloud users. Function-as-a-Service (FaaS) is a
 way to deploy an application, as a set of functions, to serverless backends in the cloud.
 The functions are usually short-lived and have unpredictable invocation patterns. A
 typical cloud environment has multiple tenants coreside on a server. The combination
