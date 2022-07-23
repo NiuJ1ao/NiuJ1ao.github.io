@@ -4,21 +4,23 @@
   
   
   <url>
-    <loc></loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/tag/coursework/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/iso/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/tag/ic-doc/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/coursework/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/ic-doc/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-05-06T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/project/icnlp/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/publication-type/1/</loc><lastmod>2021-07-30T00:00:00+00:00</lastmod></url>
   <url>

@@ -39,7 +39,24 @@ in the vHive, which we developed for this project.&lt;/p&gt;
       <link>https://example.com/project/mlp/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/mlp/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this project, we studied the effectiveness of
+length ratio conditioning on paraphrase genera-
+tion. We constructed two datasets. One used
+a pretrained NMT model to construct a new
+paraphrasing dataset from WMT 2019 Europarl
+German-English dataset, and the other was ex-
+tracted from MSCOCO and QUORA question
+pairs dataset. We proposed tagging and fine-
+tuning methods on length ratio for condition-
+ing paraphrase generation. Finally we evaluate
+length-ratio conditioning performance of models
+from semantic similarity and length change. The
+major finding is that tagging had little to no effect
+on conditioning tasks while having a better para-
+phrase performance. In comparison, however,
+fine-tuning is more effective in conditioning but
+showed poor performance in paraphrasing.&lt;/p&gt;
+</description>
     </item>
     
     <item>

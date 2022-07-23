@@ -5,12 +5,36 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hue3a655598c6865a5273e9cfb01f02a1f_2400_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Calibrating Uncertainty Estimates for Machine Learning Models</title>
+      <link>https://example.com/project/iso/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/iso/</guid>
+      <description>&lt;p&gt;Recent advances in machine learning have dramatically improved the ability of neural
+networks to solve real-world problems. Machine learning methods are also more frequently
+deployed in critical scenarios. This requires that machine learning models need to be both
+accurate and reliable. So, calibrating a model to create a rigorous confidence set or estimates
+that represent the actual correctness likelihood is essential. In this report, we review the
+theoretical and practical concepts of uncertainty estimation and calibration. The history of
+popular calibration models and their application are also covered, which will help understand
+concepts more intuitively. We conduct experiments on the uncertainty estimation of neural
+networks before and after applying various post-processing calibration methods. Empirical
+results show that modern neural networks are often overconfident and poorly calibrated.
+Temperature scaling is straightforward and surprisingly efficient at calibrating confidence for
+classification models. Conformal prediction is a non-parametric distribution-free calibration
+method for regression models. However, we notice that distribution shifts and biases can
+easily influence the confidence interval for predictions from conformal inference. Ensembling
+can be an implicit calibration method that can mitigate the overconfidence of neural networks
+and provide stable predictions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prompt Tuning for Condescending Detection</title>
@@ -47,7 +71,24 @@ in the vHive, which we developed for this project.&lt;/p&gt;
       <link>https://example.com/project/mlp/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/mlp/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this project, we studied the effectiveness of
+length ratio conditioning on paraphrase genera-
+tion. We constructed two datasets. One used
+a pretrained NMT model to construct a new
+paraphrasing dataset from WMT 2019 Europarl
+German-English dataset, and the other was ex-
+tracted from MSCOCO and QUORA question
+pairs dataset. We proposed tagging and fine-
+tuning methods on length ratio for condition-
+ing paraphrase generation. Finally we evaluate
+length-ratio conditioning performance of models
+from semantic similarity and length change. The
+major finding is that tagging had little to no effect
+on conditioning tasks while having a better para-
+phrase performance. In comparison, however,
+fine-tuning is more effective in conditioning but
+showed poor performance in paraphrasing.&lt;/p&gt;
+</description>
     </item>
     
     <item>
