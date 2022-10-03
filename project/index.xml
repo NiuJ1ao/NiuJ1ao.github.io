@@ -5,12 +5,22 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hue3a655598c6865a5273e9cfb01f02a1f_2400_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Data Augmentation in Infinitely Wide Neural Networks.</title>
+      <link>https://example.com/project/master_thesis/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/master_thesis/</guid>
+      <description>&lt;p&gt;Supervised by &lt;a href=&#34;https://mvdw.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Mark van der Wilk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Infinitely wide neural networks have shown equivalence to Gaussian processes (GPs).This equivalence enables exact Bayesian inference for the posterior and predictivedistribution without ever instantiating a neural network, but by evaluating the corresponding GP. A major advantage of GPs over neural networks is that the hyperparameters can be optimised by backpropagation to maximise the marginal likelihood. However, the evaluation of the marginal likelihood is computationally intractable in large scale machine learning, especially when the training data is enlarged for better generalisation by generating a broader set of augmentations. In this project, we address the intractability by sparse Gaussian process regression and choose the bestmodel by maximising a variational lower bound of the true log marginal likelihood. We find that the sparse approximation estimates the true posterior on a regressiontask with few inducing points. However, it shows the difficulty of approximation on classification tasks. A comparison of the efficiency of different methods for selecting inducing points is also conducted. Furthermore, we study the invariances in the data and incorporate them into the model by summing over orbits. Empirical results show that the invariances can be learned in a supervised manner and demonstrate different characteristics from the infinitely wide neural networks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Calibrating Uncertainty Estimates for Machine Learning Models</title>
